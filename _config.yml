@@ -36,7 +36,7 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - home.md
+  - index.md
   - about.md
   - equipment.md
   - projects.md
