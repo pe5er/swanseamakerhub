@@ -1,5 +1,11 @@
 # Welcome to the Swansea Maker Hub's Website's GitHub
 
+## How Do I Make Edits?
+
+If you're new to GitHub, consider checking out one of their [simple guides](https://guides.github.com/activities/hello-world/). If you're making occasional edits, the best thing to do is to create your own branch (aka Fork) of this repository, make your changes, then submit a pull request. I'll check over your changes then merge them with the main code. If you're going to make lots of changes, or you'd just like to skip the above steps, contact me ([peter@m0swn.uk](mailto:peter@m0swn.uk)) and i'll add you as an author to this repo, so you can make changes directly.
+
+For help with Markdown, read on.
+
 ## Built with GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pe5er/gw3uws_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -29,10 +35,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pe5er/gw3uws_website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
