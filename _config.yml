@@ -16,18 +16,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WEBSITETITLE
-email: "EMAILADDRESS"
+title: Swansea Maker Hub
+email: "555145@swansea.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  Peter Barnes
+  The MAKER HUB @ Swansea University. Enabling members to learn, network, and make things!
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: makerhubswan
 #github_username:  jekyll
 
 permalink: /:title
 
-repository: "pe5er/REPOSITORYNAME"
+repository: "pe5er/swanseamakerhub"
 
 # Build settings
 plugins:
@@ -36,6 +36,9 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - PAGENAME.md
-  - PAGENAME2.md
+  - home.md
+  - about.md
+  - equipment.md
+  - projects.md
+  - visit us.md
 
