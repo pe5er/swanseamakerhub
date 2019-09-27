@@ -1,5 +1,21 @@
 # Welcome to the Swansea Maker Hub's Website's GitHub
 
+## Website Ideas
+
+### About Us
+* People section? See [Imperial's People Section](https://www.imperial.ac.uk/advanced-hackspace/about/people/)
+
+### Equipment
+* Facilities Page? This would probably, but not nessessarily, replace the equipment page. See [Imperial's Facilities Page](https://www.imperial.ac.uk/advanced-hackspace/about/people/)
+
+### Events
+* We could have an events page, perhaps with a link to an already existing calendar? 
+
+### Visit
+* Map
+* Directions by road, rail: including information about buses
+* See [Imperial's Visit Section](https://www.imperial.ac.uk/advanced-hackspace/about/how-to-find-us/)
+
 ## How Do I Make Edits?
 
 If you're new to GitHub, consider checking out one of their [simple guides](https://guides.github.com/activities/hello-world/). If you're making occasional edits, the best thing to do is to create your own branch (aka Fork) of this repository, make your changes, then submit a pull request. I'll check over your changes then merge them with the main code. If you're going to make lots of changes, or you'd just like to skip the above steps, contact me ([peter@m0swn.uk](mailto:peter@m0swn.uk)) and i'll add you as an author to this repo, so you can make changes directly.
