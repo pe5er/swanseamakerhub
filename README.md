@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to the Swansea Maker Hub's Website's GitHub
+
+## Built with GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pe5er/gw3uws_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
