@@ -2,6 +2,7 @@
 title: Branding
 ---
 
+
 ## Logo
 
 <table>
