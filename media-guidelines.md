@@ -1,5 +1,5 @@
 ---
-title: Branding
+title: Media Guidelines
 ---
 <br>
 
