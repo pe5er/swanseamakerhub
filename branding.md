@@ -12,8 +12,8 @@ title: Branding
   </tr>
   <tr>
     <th bgcolor="#009FE3"><a href="http://www.colorfavs.com/colors/009fe3/" target="_blank">#009FE3</a></th>
-    <th bgcolor="#EA5B0C"><a href="http://www.colorfavs.com/colors/EA5B0C/" target="_blank">#EA5B0C</a><</th>
-    <th bgcolor="#F39200"><a href="http://www.colorfavs.com/colors/F39200/" target="_blank">#F39200</a><</th>
+    <th bgcolor="#EA5B0C"><a href="http://www.colorfavs.com/colors/EA5B0C/" target="_blank">#EA5B0C</a></th>
+    <th bgcolor="#F39200"><a href="http://www.colorfavs.com/colors/F39200/" target="_blank">#F39200</a></th>
   </tr>
   <tr>
     <th colspan="3">Font: Unknown</th>
