@@ -1,5 +1,5 @@
 ---
-title: Media Guidelines
+title: Media
 ---
 <br>
 
