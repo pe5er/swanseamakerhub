@@ -19,3 +19,13 @@ title: Branding
     <th colspan="3">Font: Unknown</th>
   </tr>
 </table>
+
+## About the Swansea Maker Hub
+
+The Swansea Makerhub is a student-led initiative to create an open workshop containing equipment and support for students to work on their own design projects and prototypes, gain hands-on experience and develop their knowledge. The Makerhub is situated in B005, Engineering Central, and is open on Wednesday afternoons from 2-6pm.
+
+## About Makerspaces
+
+A Makerspace is a collaborative work space used for making, learning, exploring and sharing. These spaces usually have a variety of maker equipment including 3D printers, laser cutters, cnc machines, soldering irons and textile equipment. These spaces are helping people to develop skills in STEM areas, by providing them with hands-on experience, and by connecting them with other makers.
+
+References: [makerspaces.com](makerspaces.com)
