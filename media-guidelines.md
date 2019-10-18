@@ -2,6 +2,7 @@
 title: Branding
 ---
 <br>
+
 ## Logo
 
 <table>
@@ -19,6 +20,7 @@ title: Branding
   </tr>
 </table>
 <br>
+
 ## About the Swansea Maker Hub
 
 The Swansea Makerhub is a student-led initiative to create an open workshop containing equipment and support for students to work on their own design projects and prototypes, gain hands-on experience and develop their knowledge. The Makerhub is situated in B005, Engineering Central, and is open on Wednesday afternoons from 2-6pm.
