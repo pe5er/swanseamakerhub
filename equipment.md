@@ -4,6 +4,14 @@ title: Equipment
 
 Here's a list of the equipment that we have:
 
+# 3D Printing
+* Prusa i3 MK3s
+* Prusa i3 MK3s
+* Access to the College of Engineering 3D Printing Lab
+
+# Laser Cutting
+* Access to a laser cutter
+
 # Large Tool Chest
 ## PPE Draw:
 * Safety Glasses
