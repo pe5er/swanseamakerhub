@@ -9,7 +9,7 @@ The Swansea Maker Hub is a space in the College of Engineering, Swansea Universi
 
 # What personal data we collect and why we collect it
 * ### Google Forms
-When you fill out a Google Form (such as our signin form, or induction form), we collect some personal data. This data may include (but is not limited to) your name, email address, Swansea University student number, level of study and degree programme. 
+When you fill out a Google Form (such as our sign-in form, or induction form), we collect some personal data. This data may include (but is not limited to) your name, email address, Swansea University student number, level of study and degree programme. 
 Each form includes a privacy statement at the top, explaining what this personal data will be used for, and referring back to this policy.
 Data collected by Google Forms is managed by Google's Cloud service, whos privacy policy is available here: [https://cloud.google.com/security/gdpr](https://cloud.google.com/security/gdpr).
 
@@ -20,19 +20,18 @@ These websites may collect data about you, use cookies, embed additional third-p
 # Who we share your data with
 * ### MakerHub Organising Team
 Some members of the MakerHub organising team will have access to the MakerHub Google Drive folder. This folder contains all of the responses to our online forms. Only organisers who require access to this data are provided it.
+* ### Swansea University
+We may share some of our data with certain departments of Swansea University. For example, we may send attendance or induction statistics to the College of Engineering. Any personal data held by Swansea University is covered by their [Privacy Policy](https://www.swansea.ac.uk/alumni/contactus/privacy-policy/)
 
 # What rights you have over your data
-If you have provided us with your personal data, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes. If you would like to submit a Subject Access Request, please [contact us](https://swanseamakerhub.co.uk/contact)
-
-# Where we send your data
-Your personal data is not sent to any 3rd party
+If you have provided us with your personal data, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes. If you would like to submit a GDPR request, please [contact us](https://swanseamakerhub.co.uk/contact). For more information about GDPR, [gov.uk GDPR guide](https://www.gov.uk/government/publications/guide-to-the-general-data-protection-regulation).
 
 # Additional information
 * ### How we protect your data
-The only people with access to your data are members of the Makerhub Organsing Team.
+The only people with access to your data are members of the Makerhub Organsing Team. Personal information is only stored on password protected devices, or on Google Drive. Google Drive folders containing personal information are only shared with select members of the MakerHub Organising Team, and are never available for public access.
 
 * ### What data breach procedures we have in place
-In the unlikely event of a breach of this information, our first cause of action would be to investigate the breach and secure our Google Drive account. This action would provide a good line of defence against an intruder who were to deliberately breach our account. We would send out an email to every person we hold personal data for, notifying them that a breach had occured.
+In the unlikely event of a breach of this information, our first cause of action would be to investigate the breach and secure our Google Drive account. We would then send out an email to every person we hold personal data for, notifying them that a breach had occured.
 
 * ### What third parties we receive data from
 We don't recieve any data about you from 3rd parties
