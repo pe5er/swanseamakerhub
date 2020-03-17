@@ -4,8 +4,10 @@ draft: false
 title: Home
 ---
 
-Welcome to the Swansea Maker Hub!
+## Maker Hub sessions will not be running until further notice
 
-We are based in the College of Engineering at Swansea University and our goal is to enable people to learn, network, and make things! 
+Due to the Coronavirus outbreak, we will not be running any Maker Hub sessions. Please do not come along to the space on Wednesday, but please amke use of our slack channel instead! [makerhubswan.slack.com](makerhubswan.slack.com)
 
-Come along on a Wednesday between 2-6pm to Engineering Central B005 and say hello!
+Anyone was a @swansea.ac.uk email can join.
+
+We may also set up a remote Maker Hub session; to be discussed on Slack!
